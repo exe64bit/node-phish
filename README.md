@@ -1,0 +1,1 @@
+A Phishing tool build for educaton purpose only. Do not use it for illigel use, if anything happend then the app admin and the contributers are notaligible for that. It is a open source project feel free to fork and contribut to it.
