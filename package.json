@@ -1,0 +1,37 @@
+{
+  "name": "node-phish",
+  "version": "0.0.0",
+  "description": "A Phishing tool build for educaton purpose only. Do not use it for illigel use, if anything happend then the app admin and the contributers are notaligible for that. It is a open source project feel free to fork and contribut to it.",
+  "keywords": [
+    "CyberSecurity",
+    "phishing",
+    "tool",
+    "nodejs",
+    "electronjs",
+    "javascript"
+  ],
+  "homepage": "https://github.com/exe64bit/node-phish#readme",
+  "bugs": {
+    "url": "https://github.com/exe64bit/node-phish/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exe64bit/node-phish.git"
+  },
+  "license": "MIT",
+  "author": "exe64bit",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
